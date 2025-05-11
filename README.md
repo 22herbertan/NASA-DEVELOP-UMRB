@@ -1,2 +1,2 @@
 # NASA-DEVELOP-UMRB
-This is an unofficial code repository for the NASA DEVELOP UMRB Water Resources team. Includes R Scripts of streamflow, fractional available water, and vegetation health data processing for correlation analysis across the Upper Missouri River Basin.
+This is a code repository for the UMRB Water Resources project post-NASA DEVELOP. Includes R Scripts of streamflow, fractional available water, and vegetation health dataset processing for correlation and time series analysis across the Upper Missouri River Basin.
